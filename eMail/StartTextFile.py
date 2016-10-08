@@ -18,19 +18,16 @@ def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxP
     try:
         conn = smtplib.SMTP_SSL(Variables.SMTPServerAddres)
         conn.set_debuglevel(True)
-        conn.login(Variables.ServerEmailAddr, Variables.ServerEmailPwd)		#TODO andere eMail einstellen
+        conn.login(Variables.ServerEmailAddr, Variables.ServerEmailPwd)
         try:
             conn.sendmail(Variables.ServerEmailAddr, Variables.AdminEmailAddres, msg.as_string())
         finally:
             conn.close()
     except Exception as exc:
-        print("critical Error")
+        print("critical Error: %s" % (exc))
 
 
 
 if __name__ == '__main__':
-    #disables becaus it was to debug
-    #from GModServer.Variables import *
-    #SendStartEMail(SteamWorkShopId, ServerGamemode, ServerDefaultMap, ServerMaxPlayer, ServerPort)
     from PythonServerKernel.Exceptions import RunnedFromFalseFile
     raise RunnedFromFalseFile('eMail_StartTextFile_py')
