@@ -33,4 +33,4 @@ def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd=""
 
 if __name__ == '__main__':
     from PythonServerKernel.Exceptions import  RunnedFromFalseFile
-    raise RunnedFromFalseFile("UpdateAndValidateServer_py")
+    raise RunnedFromFalseFile("GModServer_UpdateAndValidateServer_py")

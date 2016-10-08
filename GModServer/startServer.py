@@ -10,3 +10,8 @@ def StartServer(steamApiAuthKey=SteamApiAuthKey, steamWorkShopId=SteamWorkShopId
     print("start")
     sendStartEMail(steamWorkShopId, serverGamemode, serverDefaultMap, serverMaxPlayer, serverPort)
 
+
+
+if __name__ == '__main__':
+    from PythonServerKernel.Exceptions import RunnedFromFalseFile
+    raise RunnedFromFalseFile('startServer_py')

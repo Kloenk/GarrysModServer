@@ -13,3 +13,8 @@ class KernerlCriticalFailur(Error):
 class RunnedFromFalseFile(Error):
     def __init__(self, file):
         self.file = file
+
+
+
+if __name__ == '__main__':
+    raise RunnedFromFalseFile('PythonServerKernel_Exception_py')
