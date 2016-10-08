@@ -28,7 +28,7 @@ def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd=""
                     steamCmdDir, steamAuthName, steamAuthPwd, steamForceDir, steamAppID)
         else:
             raise KernerlCriticalFailur('SteamAuthPWD', '''can't resolve status''')
-        if(debug== True):
+        if(debug == True):
             print("run command %s" % (Command))
         os.system(Command)
     except:
