@@ -11,9 +11,9 @@ def StartServer(steamApiAuthKey=SteamApiAuthKey, steamWorkShopId=SteamWorkShopId
     print("start")
     sendStartEMail(steamWorkShopId, serverGamemode, serverDefaultMap, serverMaxPlayer, serverPort)
     from GModServer.UpdateAndValidateServer import updateGarrysModServer
-    updateGarrysModServer(debug=debug)
+    updateGarrysModServer(debug=debug)                                      #update gMod Server over steamcmd
     from GModServer.StartServer import StartGarrysModServer
-    StartGarrysModServer(debug=debug)
+    StartGarrysModServer(debug=debug)                                       #Start GMod Server
 
 
 

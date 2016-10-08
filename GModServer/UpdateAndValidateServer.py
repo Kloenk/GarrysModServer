@@ -7,6 +7,7 @@ from PythonServerKernel.Exceptions import KernerlCriticalFailur
 import os
 
 
+#updating gMod server over steamcmd
 def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd="", steamForceDir=Variables.SteamForceDir,
                           steamAppID=Variables.SteamApID, validate=True, steamCmdDir=Variables.SteamCmdDir, debug=False):
     try:
@@ -36,5 +37,5 @@ def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd=""
 
 
 if __name__ == '__main__':
-    from PythonServerKernel.Exceptions import  RunnedFromFalseFile
+    from PythonServerKernel.Exceptions import RunnedFromFalseFile
     raise RunnedFromFalseFile("GModServer_UpdateAndValidateServer_py")

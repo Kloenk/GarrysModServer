@@ -4,13 +4,13 @@ class Error(Exception):
     pass
 
 class KernerlCriticalFailur(Error):
-    def __init__(self, expresion, message):
+    def __init__(self, expresion, message):         #define undifen error
         self.expression=expresion
         self.message=message
 
 
 #TODO in alle datein einbauhen
-class RunnedFromFalseFile(Error):
+class RunnedFromFalseFile(Error):                   #define New Error to raise if someone calling the false file
     def __init__(self, file):
         self.file = file
 

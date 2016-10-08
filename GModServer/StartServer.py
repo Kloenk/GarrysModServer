@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from GModServer import Variables
+import os
 
 def StartGarrysModServer(steanApiAuthKey=Variables.SteamApiAuthKey, steamWorkShopID=Variables.SteamWorkShopId,
                          serverGamemode=Variables.ServerGamemode, serverDefaultMap=Variables.ServerDefaultMap,
@@ -12,6 +13,7 @@ def StartGarrysModServer(steanApiAuthKey=Variables.SteamApiAuthKey, steamWorkSho
                     steamWorkShopID, serverDefaultMap, serverGamemode, serverPort)
     if(debug==True):
         print(Command)
+    os.system(Command)                          #start gMod server
 
 
 

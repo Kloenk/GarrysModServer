@@ -6,4 +6,4 @@ if __name__ == '__main__':
     print("programm running")
     print("sending start email")
     import GModServer.SendStartMail
-    GModServer.SendStartMail.StartServer(debug=True)
+    GModServer.SendStartMail.StartServer(debug=True)        #Send Start Mail and start Server
