@@ -5,7 +5,5 @@
 if __name__ == '__main__':
     print("programm running")
     print("sending start email")
-    import GModServer.startServer
-    GModServer.startServer.StartServer()
-    import GModServer.UpdateAndValidateServer
-    GModServer.UpdateAndValidateServer.updateGarrysModServer()
+    import GModServer.SendStartMail
+    GModServer.SendStartMail.StartServer(debug=True)
