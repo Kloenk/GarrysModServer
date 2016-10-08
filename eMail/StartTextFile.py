@@ -6,11 +6,12 @@ import sys
 from email.mime.text import MIMEText
 from GModServer import Variables
 
-def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxPlayer, serverPort):
+def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxPlayer,serverIP, serverPort):
     text = '''
     The GCG Server Will now start.
-    The steamWorkshopId from the pack is %s, the Gamode of the server is %s, the map is %s, there are %s players allowed, the server is runing on port %s.
-    ''' % (steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxPlayer, serverPort)
+    The steamWorkshopId from the pack is %s, the Gamode of the server is %s, the map is %s, there are %s players allowed,
+    the server is runing on IP %s:%s.
+    ''' % (steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxPlayer, serverIP, serverPort)
     msg = MIMEText(text, 'plain')
     msg['Subject'] = "starting info"
     msg['to']      = '[GCG] Root Server Managment'
@@ -29,5 +30,7 @@ def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxP
 
 
 if __name__ == '__main__':
+    from GModServer.Variables import *
+    SendStartEMail(SteamWorkShopId, ServerGamemode, ServerDefaultMap, ServerMaxPlayer, ServerIp, ServerPort)
     from PythonServerKernel.Exceptions import RunnedFromFalseFile
     raise RunnedFromFalseFile('eMail_StartTextFile_py')
