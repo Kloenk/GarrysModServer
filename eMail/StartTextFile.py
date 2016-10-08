@@ -4,6 +4,7 @@ import smtplib
 
 import sys
 from email.mime.text import MIMEText
+from GModServer import Variables
 
 def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxPlayer, serverPort):
     text = '''
@@ -17,9 +18,9 @@ def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxP
     try:
         conn = smtplib.SMTP_SSL('mail.gmx.net:465')
         conn.set_debuglevel(True)
-        conn.login('kloenk@gmx.de', 'R3ich3lt')		#TODO andere eMail einstellen
+        conn.login(Variables.ServerEmailAddr, Variables.ServerEmailPwd)		#TODO andere eMail einstellen
         try:
-            conn.sendmail('kloenk@gmx.de', 'speechinterface15@gmail.com; finn@trudeltiere.de', msg.as_string())
+            conn.sendmail(Variables.ServerEmailAddr, Variables.AdminEmailAddres, msg.as_string())
         finally:
             conn.close()
     except Exception as exc:
