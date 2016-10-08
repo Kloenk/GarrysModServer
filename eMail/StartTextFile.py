@@ -24,7 +24,7 @@ def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxP
         finally:
             conn.close()
     except Exception as exc:
-        print("critical Error: %s" % (exc))
+        print("critical Error: %s" % exc)
 
 
 
