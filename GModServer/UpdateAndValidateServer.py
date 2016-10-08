@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import _thread
+#import _thread
 
 from GModServer import Variables
 from PythonServerKernel.Exceptions import KernerlCriticalFailur
@@ -29,7 +29,6 @@ def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd=""
             raise KernerlCriticalFailur('SteamAuthPWD', '''can't resolve status''')
         print("run command %s" % (Command))
         os.system(Command)
-        print("test")
     except:
         raise
 
