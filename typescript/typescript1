@@ -1,0 +1,1749 @@
+Script started on Fri 07 Oct 2016 08:02:08 PM CEST
+root@ms403:/home/steam/steamcmd/garrysMod# ./run.sh 
+starting screen
+updating gMod Server
+running gMod Server with 50 players, the gamemode starwarsrp and the map rp_venator_rg and port 27015
+
+
+************** WARNING ***************
+Running the dedicated server as root  
+is highly discouraged. It is generally
+unnecessary to use root privileges to 
+execute the dedicated server.         
+**************************************
+
+
+The server will continue to launch in 10 seconds
+The server will continue to launch in 9 seconds
+The server will continue to launch in 8 seconds
+The server will continue to launch in 7 seconds
+The server will continue to launch in 6 seconds
+The server will continue to launch in 5 seconds
+The server will continue to launch in 4 seconds
+The server will continue to launch in 3 seconds
+The server will continue to launch in 2 seconds
+The server will continue to launch in 1 seconds
+Auto detecting CPU
+Using default binary: ./srcds_linux
+Server will auto-restart if there is a crash.
+//todo fix Couldn't load shader dll: game_shader_generic_garrysmod_srv.soConVarRef mat_dxlevel doesn't point to an existing ConVar
+Game_srv.so loaded for "Garry's Mod"
+Setting breakpad minidump AppID = 4000
+Initializing Steam libraries for Workshop..
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Fetching Workshop Addons..
+Calling GetCollectionDetails
+Collection has 294 Addons
+Connection to Steam servers successful.
+   Public IP is 89.163.225.149.
+Assigned anonymous gameserver Steam ID [A-1:1568437252(7479)].
+VAC secure mode is activated.
+Mounting Addon '(FIX) Republic Commandos' (500567545)
+Mounting Addon '187th Legion Clones Pack' (701730566)
+Mounting Addon '3D2D Textscreens' (109643223)
+Mounting Addon 'Active Camouflage' (308977650)
+Mounting Addon 'Advanced Duplicator' (163806212)
+Mounting Addon 'Advanced Particle Controller' (242776816)
+Mounting Addon 'ANS Avalon - Spaceship' (440474486)
+Mounting Addon 'AntiPlayerStuck' (149737736)
+Mounting Addon 'ARC Sergeant Player Model (Improved)' (683609718)
+Mounting Addon 'Asajj Ventress : Clone Wars' (662671797)
+Mounting Addon 'Auto-Cleaning Decals [No ULX and more admins mod]' (412608410)
+Mounting Addon 'Automatic Workshop Download' (626604673)
+Mounting Addon 'Cad Bane : Clone Wars' (602612697)
+Mounting Addon 'CGI Cadet Playermodel' (694696128)
+Mounting Addon 'CGI CIS Droid Pack' (721821542)
+Mounting Addon 'CGI Clone IDS' (728482702)
+Mounting Addon 'CGI Deathwatch Pack' (727277874)
+Mounting Addon 'CGI General Grievous PlayerModel' (705124288)
+Mounting Addon 'CGI Magna Guards Playermodel / NPC' (722174342)
+Mounting Addon 'Clone Troopers - Phase 2' (564462687)
+Mounting Addon 'Chewbacca Sound SWEP' (624309900)
+Mounting Addon 'CGI Trandoshan NPC/Playermodels' (719263502)
+Mounting Addon 'Clone Shadow Troopers Playermodel Pack' (710397982)
+Mounting Addon 'Clonewars Content 2' (497909699)
+Mounting Addon 'Clonewars Content 3' (565684228)
+Mounting Addon 'Commando Knife SWEP' (577898664)
+Mounting Addon 'Coruscant V2' (727597450)
+Mounting Addon 'CW: Clone Wars Content' (393349486)
+Mounting Addon 'Dark/Light Revan Player Model REUPLOAD' (526087892)
+Mounting Addon 'Darth Jadus : SWTOR' (606378269)
+Mounting Addon 'Darth Marr : SWTOR' (600577642)
+Mounting Addon 'Darth Malgus : SWTOR' (602618106)
+Mounting Addon 'DarkRP' (248302805)
+Mounting Addon 'Darth Nihilus Playermodel' (592359051)
+Mounting Addon 'Enhanced PlayerModel Selector' (504945881)
+Mounting Addon 'Emplacements' (213515639)
+Mounting Addon 'Easy Bodygroup Tool' (104604943)
+Mounting Addon 'DiverseRP | CGI Yoda Model' (605982973)
+Mounting Addon 'EOD Playermodels' (705332117)
+Mounting Addon 'Enhanced Star Wars NPC Weapons' (727905714)
+Mounting Addon 'Extended Properties' (104607712)
+Mounting Addon 'Extended Spawnmenu' (104603291)
+Mounting Addon 'Fading door tool' (115753588)
+Mounting Addon 'Galactic Marines Clones Playermodel Pack' (706249030)
+Mounting Addon 'General Grievous PlayerModel' (329152762)
+Mounting Addon 'Geonosis' (603530182)
+Mounting Addon 'GM Arid Valley V2 Day' (510346779)
+Mounting Addon 'GG server Content 4' (693353075)
+Mounting Addon 'Gm Lunar Base' (337825623)
+Mounting Addon 'GM Range D6' (494065198)
+Mounting Addon 'GM Range E8' (526701334)
+Mounting Addon 'Gmod Legs 3' (112806637)
+Mounting Addon 'GM_UBaseV4' (216416746)
+Mounting Addon 'GM_Uldum 2' (148992024)
+Mounting Addon 'Green Company Playermodels' (704640624)
+Mounting Addon 'Jawa Sound SWEP' (625161981)
+Mounting Addon 'Jango and Boba Playermodels' (621988640)
+Mounting Addon 'Hit Numbers' (110871780)
+Mounting Addon 'Kashyyyk' (594141404)
+Mounting Addon 'Jedi BattleLord Armor Pack : SWTOR' (601509912)
+Mounting Addon 'Keypad Tool and Cracker with Wire Support' (108424005)
+Mounting Addon 'Kit Fisto : Clone Wars' (601507233)
+Mounting Addon 'Ladder Tool' (708225419)
+Mounting Addon 'Laser Minigun Swep' (156873942)
+Mounting Addon 'Local OOC Command' (516893883)
+Mounting Addon 'M9K Specialties' (144982052)
+Mounting Addon 'Mass Effect Props' (115368733)
+Mounting Addon 'Mass Effect Props - Part Four' (420436409)
+Mounting Addon 'Mass Effect Props - Part One' (420381877)
+Mounting Addon 'Mass Effect Props - Part Three' (420433780)
+Mounting Addon 'Mass Effect Props - Part Two' (420390352)
+Mounting Addon 'Military Base' (668784102)
+Mounting Addon 'Mos Mesric Map Textures' (253379325)
+Mounting Addon 'Mos Mesric' (143678007)
+Mounting Addon 'More Materials!' (105841291)
+Mounting Addon 'More Clone Troopers Playermodel Pack' (696378711)
+Mounting Addon 'Modern Notifications' (650064006)
+Mounting Addon 'More Clone Troopers NPCs' (702824294)
+Mounting Addon 'No Collide Everything' (105955548)
+Mounting Addon 'Naboo' (576353911)
+Mounting Addon 'Mustafar' (577727672)
+Mounting Addon 'MR's Optimized Tazer [original by realrbn]' (654393273)
+Mounting Addon 'Navy Clones: Class Pack' (699893859)
+Mounting Addon 'NPC Spawn Platforms v2' (107821465)
+Mounting Addon 'NPC Tools' (104486597)
+Mounting Addon 'NPCGroups' (136077464)
+Mounting Addon 'ODST Drop Pod' (434936477)
+Mounting Addon 'Parachute' (354687510)
+Mounting Addon 'Patrol Routes STool' (624692150)
+Mounting Addon 'PermaProps' (220336312)
+Mounting Addon 'Plo Koon' (131729710)
+Mounting Addon 'R2D2 Sound SWEP' (625163504)
+Mounting Addon 'Rahm Kota : TFU' (602616761)
+Mounting Addon 'Realistic Taser' (271251046)
+Mounting Addon 'Razor Starfighter' (619642479)
+Mounting Addon 'realrbn's Tazer [Roleplay ; Taser]' (578333531)
+Downloading...
+Done!
+Extracting...
+Mounting Addon 'Renaissance_ARf' (634016252)
+Mounting Addon 'Republic Commando Ships' (141425914)
+Mounting Addon 'Republic Vehicle Models Part 1' (672768215)
+Mounting Addon 'Republic Vehicle Models Part 2' (707624024)
+Mounting Addon 'Resizer' (116892991)
+Mounting Addon 'Rocket Boots' (237544369)
+Mounting Addon 'RP Playermodels' (167699692)
+Mounting Addon 'rp_kamino' (540400029)
+Mounting Addon 'Rp_Kashyyyk_Jungle' (169044808)
+Mounting Addon 'Rp_Mos_Mesric' (614696420)
+Mounting Addon 'Rp_Naboo_City' (225115060)
+Mounting Addon 'rp_nar_shaddaa_v3' (641364996)
+Mounting Addon 'Rp_Tatooine_Dunesea' (216974337)
+Mounting Addon 'rp_swrpchaos' (669274980)
+Mounting Addon 'Sci-Fi Briefcase' (156044709)
+Mounting Addon 'Sci-Fi Citizens Playermodels' (173932955)
+Mounting Addon 'Sci-Fi Citizens v4' (173923845)
+Mounting Addon 'Sci-fi Corridor' (108712580)
+Mounting Addon 'Sci-fi Props Megapack' (284266415)
+Mounting Addon 'Sci-Fi Setpiece' (128536228)
+Mounting Addon 'Sci-Fi Shuttle Modelpack' (259383381)
+Mounting Addon 'Shaak'ti' (141420942)
+Mounting Addon 'Sith & Jedi Playermodel Pack' (518960557)
+Mounting Addon 'Simple ThirdPerson - Sliders & Fixes!' (207948202)
+Mounting Addon 'Shock Troopers Clones Mega Pack' (703129324)
+Mounting Addon 'Shadow Omega Squad Playermodels' (706949615)
+Mounting Addon 'Star Wars - Aliens!' (655547376)
+Mounting Addon 'Stacker v2 (Anti Crash)' (390320635)
+Mounting Addon 'Special Effects' (225481532)
+Mounting Addon 'Slappers' (105225353)
+Mounting Addon 'Star Wars - ARF Playermodel' (411119358)
+Mounting Addon 'Star Wars - LAAT Class Gunship' (388130259)
+Mounting Addon 'Star Wars - Homing Droid' (394662870)
+Mounting Addon 'Star Wars - Dwarf Spider Droid' (392207579)
+Downloading...
+Done!
+Extracting...
+Mounting Addon 'Star Wars - Dual DL-44's' (673209666)
+Mounting Addon 'Star Wars - Droid Gunship' (394155399)
+Mounting Addon '212th Clones Mega Playermodel Pack' (693260217)
+Mounting Addon '327th Star Corps Clone Troopers Playermodel Pack' (705418843)
+Mounting Addon 'STAR WARS Alien Playermodels' (505272513)
+Mounting Addon 'Star Wars Aayla Secura' (603454037)
+Mounting Addon 'Star Wars - [rp] Tatooine Podracing by elitelukas' (410795200)
+Mounting Addon 'Star Wars Battle Droid NPC' (118290695)
+Mounting Addon 'Star Wars Battledroid Playermodel' (567896600)
+Mounting Addon 'Star Wars Battledroids' (107567765)
+Mounting Addon 'Star Wars Battlefront: Scout Trooper Ragdoll and Playermodel' (496296981)
+Mounting Addon 'Star Wars Boba and Jango Fett' (109742893)
+Mounting Addon 'Star Wars Bryar Pistol' (493394644)
+Mounting Addon 'Star Wars Dual Westar34's' (540267297)
+Mounting Addon 'Star Wars Dual DC17 SWEP' (532318840)
+Mounting Addon 'Star Wars Content Pack #6' (642709005)
+Mounting Addon 'Star Wars Clone Wars Pilots Phase 1' (636815711)
+Mounting Addon 'Star Wars Chewbacca Sound Gun' (609357103)
+Mounting Addon '' (729593488)
+Downloading...
+Mounting Addon 'Star Wars Lightsabers' (111412589)
+Mounting Addon 'Star Wars Kit Fisto' (604634411)
+Mounting Addon 'Star Wars King's Realm custom playermodels' (636536820)
+Mounting Addon 'Star Wars Imperial Guard' (113145774)
+Mounting Addon 'STAR WARS Han Solo and Chewbacca Playermodels' (448581592)
+Mounting Addon 'Star Wars Flags & Banners' (628120855)
+Mounting Addon 'Star Wars Lightsabers Extension' (671544612)
+Mounting Addon 'Star Wars Music (Extended)' (467503853)
+Mounting Addon 'Star Wars Mini Gun BETA!' (574187141)
+Mounting Addon 'Star Wars Music Speakers' (252742321)
+Mounting Addon 'Star Wars Republic Commando Models' (107555119)
+Mounting Addon 'STAR WARS R2-D2 and C-3PO Playermodels' (452796046)
+Mounting Addon 'Star Wars Props (Extended)' (609089838)
+Mounting Addon 'Star Wars Playermodels' (462196180)
+Mounting Addon 'Star Wars PlayerModel Pack' (227870289)
+Mounting Addon 'Star Wars Republic Ships' (607678060)
+Mounting Addon 'Star Wars Ships' (230425520)
+Mounting Addon 'Star Wars Ships Outtakes' (265101343)
+Mounting Addon 'Star Wars Super Battle Droid FIXED' (325861299)
+Mounting Addon 'Star Wars the Clone Wars - Geonosis & Venator Map' (598786140)
+Mounting Addon 'Star Wars the Clone Wars Echo ARC Trooper' (538300971)
+Mounting Addon 'Star Wars Troopers' (109008549)
+Mounting Addon 'Star Wars Turrets' (682412506)
+Mounting Addon 'Star Wars unleashed' (141711647)
+Mounting Addon 'Star Wars Vehicles: Episode 2' (608632308)
+Mounting Addon 'Star Wars Vehicles: Episode 1' (495762961)
+Mounting Addon 'Star Wars weapons' (109008805)
+Mounting Addon 'Star Wars Weapons (Clone Hands)' (488629405)
+Mounting Addon 'Star Wars Weapons Extras' (712974155)
+Mounting Addon 'Star Wars Wrist Blaster' (624684355)
+Mounting Addon 'Star Wars Vehicles: EU Pack' (671171750)
+Mounting Addon 'Star Wars Z-6 Rotary Blaster' (569829414)
+Mounting Addon 'Star Wars | General Pack #1 |' (653748015)
+Mounting Addon 'Star Wars | General Pack #12 |' (653760002)
+Mounting Addon 'Star Wars | General Pack #2 |' (653748790)
+Mounting Addon 'Star Wars: Anakins Starfighter' (593247435)
+Mounting Addon 'Star Wars: AT-TE' (708220324)
+Mounting Addon 'Star Wars: Battlefront EA - Boba Fett (PM&NPC)' (675009831)
+Mounting Addon 'Star Wars: Battlefront EA - Weapons(NOT SWEPS)' (499601654)
+Mounting Addon 'Star Wars: Cad Bane's Dual LL-30' (672336002)
+Mounting Addon 'Star Wars: Darth Maul Playermodel' (663403372)
+Mounting Addon 'Star Wars: Droid Gunship' (595696875)
+Mounting Addon 'Star Wars: Dual DE-10' (672268523)
+Mounting Addon '[MVG] Shock Trooper Models' (741863636)
+Mounting Addon '[MVG] 501st Player Models' (750526295)
+Mounting Addon '[MVG] 212th Models' (748279373)
+Mounting Addon '[LB] Star Wars: 187th Phase One Troopers' (635629579)
+Mounting Addon '[GG] CGI Yoda Playermodel' (702826555)
+Mounting Addon '[GAR] Clonewars CGI Models' (694844999)
+Mounting Addon 'Star Wars: Ebon Hawk' (621350098)
+Mounting Addon 'Star Wars: Four Jedi PlayerModel Pack' (654489982)
+Mounting Addon 'Star Wars: Galactic Empire NPCs' (181551699)
+Mounting Addon 'Star Wars: Gozanti Freighter' (621183448)
+Mounting Addon 'Star Wars: Interplanetary Transport' (621180492)
+Mounting Addon 'Star Wars: Jakku Junk' (666235599)
+Mounting Addon 'Star Wars: Jango Fett and Boba Fett Player Models' (323108700)
+Mounting Addon 'Star Wars: Jedi Temple Guard Playermodel' (647980785)
+Mounting Addon 'Star Wars: Jedi Youngling Playermodels' (666417939)
+Mounting Addon 'Star Wars: Koro2 Exodrive Airspeeder' (688395151)
+Mounting Addon 'Star Wars: Maulkiller Playermodel' (734483032)
+Mounting Addon 'Star Wars: Qui-Gon Jinn Playermodel' (645610156)
+Mounting Addon 'Star Wars: Supreme Chancellor Playermodel' (652111294)
+Mounting Addon 'Star Wars: Tie Defender' (636604420)
+Mounting Addon 'STAR WARS: Trade Federation Ship' (147081163)
+Mounting Addon 'Star Wars: Tusken Hut Prop' (660147386)
+Mounting Addon 'Star Wars: Upsilon Shuttle' (664267886)
+Mounting Addon 'Star Wars: Yoda's Starfighter' (668673136)
+Mounting Addon 'Star Wars: [CGI] Doom's Unit' (690870240)
+Mounting Addon 'Starwars Jedi Ships' (145422731)
+Mounting Addon 'Starwars models' (287400108)
+Mounting Addon 'StarWarsRP Weapons' (179415040)
+Mounting Addon 'Stormy Jakku Village' (654112728)
+Mounting Addon 'Sub Material Tool' (405793043)
+Mounting Addon 'Super Battle Droid NPC' (296525622)
+Mounting Addon 'SWRP Playermodels [Shadow Trooper]' (632312346)
+Mounting Addon 'Tatooine' (563731859)
+Mounting Addon 'Teleporter STool' (212709244)
+Mounting Addon 'the hoverbike vehicle' (339522744)
+Mounting Addon 'The sit anywhere script!' (108176967)
+Mounting Addon 'Toscan Starfighter' (619886254)
+Mounting Addon 'Tuskens Sound SWEP' (650980635)
+Mounting Addon 'TV and security camera monitor materials' (521745577)
+Mounting Addon 'Underhell: East Wing - Level 1' (597215292)
+Mounting Addon 'Underwater Base Map: gm_seastation_new_v06' (492218857)
+Mounting Addon 'URS' (112423325)
+Mounting Addon 'Vape SWEP' (673698301)
+Mounting Addon 'VJ Base' (131759821)
+Mounting Addon 'Wheatley's Parkour' (410645074)
+Mounting Addon 'Wiremod' (160250458)
+Mounting Addon 'Y-Wing BTL-B' (621259058)
+Mounting Addon '[ASG] Server Content' (629643827)
+Mounting Addon '[VR] 41st Sniper Rifle' (690993574)
+Mounting Addon '[Star Wars] : Skin ARF Trooper' (634020927)
+Mounting Addon 'Low Health Effect' (652896605)
+Mounting Addon 'League of Legends Custom Skin Star Wars Ahri NPC and Playermodel' (749885879)
+Mounting Addon 'Star Wars: Ahsoka Tano Playermodel' (659695014)
+Mounting Addon '[Official] Precision Tool' (104482086)
+Mounting Addon 'CGI clone troopers Playermodels' (514450299)
+Mounting Addon '[SBS] CGI Clone Trooper Pack Pt. 2' (584249217)
+Mounting Addon 'Star Wars Clonetroopers P1' (127992073)
+Mounting Addon 'Star Wars Clonetroopers P2' (127992588)
+Mounting Addon 'Mass Effect Civilian Props' (284017501)
+Mounting Addon 'Mass Effect 3 Admiral Hackett Ragdoll' (136029299)
+Mounting Addon 'Mass Effect 2 Furniture/props' (106369732)
+Mounting Addon 'Mass Effect - SSV Normandy SR3' (402255676)
+Mounting Addon 'Wolfpack Clone Troopers NPCs' (713047708)
+Mounting Addon 'Star Wars Clone Wars ARC Phase 2 Pack' (703966322)
+Mounting Addon 'Wolfpack playermodels' (551109559)
+Mounting Addon 'Star Wars Battlefront 2015 SWEPs' (601987897)
+Mounting Addon 'Star Wars Clone Wars Galactic Marine Tempest' (692840964)
+Mounting Addon 'Starwars - Galactic Marines Flame Trooper' (657730832)
+Mounting Addon 'Phase 2 Clone Troopers (Part 2)' (613093117)
+Mounting Addon 'Phase 2 Clone Troopers (Part 3)' (721311993)
+Mounting Addon 'Phase 2 Clone Troopers (Part 1)' (576361880)
+Mounting Addon '[GG] Starwars Clonewars Playermodels ( Jedi / Clonetroopers / Random )' (700780874)
+Mounting Addon '[CWRP] Content Pack #1' (691032467)
+Mounting Addon 'Fire Extinguisher' (104607228)
+Mounting Addon 'Flamethrower SWEP' (705558144)
+Mounting Addon '[RG] Kamino' (624305780)
+Mounting Addon 'Star Wars Rakghoul Infection SWEP' (617610563)
+Mounting Addon 'Meteor Shower' (138376105)
+Mounting Addon 'Phase 2 ARF Playermodel Pack' (723879284)
+Mounting Addon 'Rp Venator v2 Coruscant BETA update 2' (703951793)
+Mounting Addon 'Star Wars - Crab Droid' (398947084)
+Mounting Addon 'Star Wars Clone Wars ARC Models' (748594889)
+Mounting Addon 'Star Wars Clone Wars Assassin Model Revised' (729067180)
+Mounting Addon 'Climb SWEP 2' (113495466)
+Mounting Addon 'Star Wars: Imperial Probe Droid' (672930068)
+Mounting Addon 'Half-Life 2 Tools' (104619813)
+Mounting Addon 'Hammerfall Starwars Land Vehicles Content' (332981847)
+Mounting Addon 'SBS Cadet Training Blaster' (575146564)
+Mounting Addon 'Star Wars - Vulture Fighter' (388398558)
+Mounting Addon 'Police Deployable Shield Content' (663787240)
+Mounting Addon 'Clone Cadet Playermodel' (738570974)
+Mounting Addon 'Gesture Menu & Commands' (145939873)
+Mounting Addon 'RevolutionGaming's rp_venator_rg' (749432229)
+Mounting Addon 'Star Wars: The Props Awaken' (643453713)
+Mounting Addon '107th Clone Troopers Playermodel Pack' (696374642)
+Mounting Addon 'Star Wars Clone Wars 501st Pack Part 1' (737331128)
+Mounting Addon 'South Star Wars Pack' (510097143)
+Mounting Addon 'Star Wars: Savage Opress Playermodel' (651788459)
+Mounting Addon 'Star Wars Clone Wars 501st Pack Part 2' (753119287)
+Mounting Addon '' (665854692)
+Downloading...
+Mounting Addon 'Star Wars Z6 Rotary Blaster Cannon (Original SWEP)' (529893884)
+Mounting Addon 'TFA HUD - SWRP Edition' (706485502)
+//todo fix Not loading addon 'addons/ds_578333531.gma' - addon header invalid
+//todo fix Couldn't mount addon [realrbn's Tazer [Roleplay ; Taser]][addons/ds_578333531.gma]
+Removing bad addon addons/ds_578333531.gma
+Not loading addon 'addons/ds_392207579.gma' - addon header invalid
+//todo fix Couldn't mount addon [Star Wars - Dwarf Spider Droid][addons/ds_392207579.gma]
+Removing bad addon addons/ds_392207579.gma
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/3d2d_textscreens'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/active_camouflage'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/advanced_particle_contoller'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/advjoinleave'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/arivia_the_darkrp_f4_menu_-_plaxus_collection-2.0.01'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/asajj_ventress'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/auto-cleaning_decals'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/awarn2'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/bodygroupr'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cad_bane'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cgi_cadet'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cgi_cis_droid_pack'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cgi_clone_ids'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cgi_deathwatch_pack'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cgi_general_grievous'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cgi_magna_guards'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cgi_trandoshan'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cgi_yoda'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/chewbacca_sound_swep'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/commando_knife_swep'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/cuffs'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/darklight_revan'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/darkrp'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/darkrpmodification-master'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/darth_malgus'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/darth_nihilus'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/easy_bodygroup_tool'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/emplaycements'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/enhanced_playermodel_selector'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/extended_properties'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/extended_spawnmenu'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/general_grievous'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/gmod_legs'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/gtime'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/hats_hook'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/hit_numbers'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/jango_and_boba'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/jawa_sound_swep'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/keypad_tool_cracker'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/kit_fisto'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/ladder_tool'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/laser_minigun_swep'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/local_ooc'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/low_health_effect'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/mass_effect_props'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/more_materials'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/mrs_optimized_tazer'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/navy_clones_class_pack'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/no_collide_everything'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/nordahl_spawnpoint_manager_all_gamemode'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/npc_tools'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/npcgroups'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/npr_spawn_platforms'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/parachute'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/patrol_routes_stool'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/permaprops'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/plo_koon'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/policeshield'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/precision_tool'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/r2d2_swep'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/rahm_kota'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/razor_starfighter'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/rocket_boots'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/rp_playermodels'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/sci-fi_briefcase'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/server_down_screen'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/sh_cameras'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/shaakti'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/simple_thirdperson'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/special_effects'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/stacker_v2'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars-arf'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_dual_westar34s'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars-aliens'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars-droid_gunship'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars-homing_droid'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars-laat'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_aayla_secura'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_alien'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_battle_droid'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_chewbacca_sound'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_flags-banners'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_imperial_guard'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_kit_fisto'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_lightsabers'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/star_wars_lightsabers_extension'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/ulib'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/ulx'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/ulx_playurl'
+Adding Filesystem Addon '/home/steam/steamcmd/garrysMod/garrysmod/addons/whitelist_job_system_darkrp'
+//todo fix Unknown command "cl_cmdrate"
+//todo fix Unknown command "cl_updaterate"
+//todo fix Unknown command "rate"
+Changing gamemode to StarwarsRP (starwarsrp)
+//todo fix Unknown command "port"
+Network: IP 127.0.0.1, mode MP, dedicated Yes, ports 27015 SV / 27005 CL
+//todo fix Error loading cfg/trusted_keys_base.txt
+//todo fix Error loading cfg/pure_server_minimal.txt
+Map file wasn't found, copying it from addon..
+PREP OK
+Map file wasn't found, copying it from addon..
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/props/vidscreen01a.vmt
+(*VertexLitGeneric*), (*proxies*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/props/vidscreen02a.vmt
+(*VertexLitGeneric*), (*proxies*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/props/vidscreen01a.vmt
+(*VertexLitGeneric*), (*proxies*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/props/vidscreen02a.vmt
+(*VertexLitGeneric*), (*proxies*), (*TextureScroll*), 
+
+[Star Wars - 187th Legion Pack] lua/autorun/187th_clones.lua:1: '=' expected near ';'
+  1. unknown - lua/autorun/187th_clones.lua:0
+
+
+[Star Wars- 327th Star Corps Playermodels] lua/autorun/327th.lua:1: '=' expected near ';'
+  1. unknown - lua/autorun/327th.lua:0
+
+
+
+
+.................................................................... 
+[title]........... Arivia 
+[build]........... v2.0.2 
+[released]........ July 14, 2016 
+[author].......... Richard 
+[website]......... https://scriptfodder.com/scripts/view/1679/ 
+[documentation]... http://docs.iamrichardt.net/products/1679/ 
+[owner]........... 76561198116760757 
+[server ip]....... 127.0.0.1 
+.................................................................... 
+
+
+[AntiPlayerStuck] lua/autorun/antiplayerstuck.lua:39: ')' expected near '@'
+  1. unknown - lua/autorun/antiplayerstuck.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/arc_general.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/arc_general.lua:0
+
+
+[CW: Clone Wars Content] lua/autorun/arf_player.lua:1: '=' expected near '/'
+  1. unknown - lua/autorun/arf_player.lua:0
+
+
+[Clonewars Content 3] lua/autorun/asg-workshop-three.lua:1: '=' expected near 'char(30)'
+  1. unknown - lua/autorun/asg-workshop-three.lua:0
+
+Initializing Darkrp Bodygroups Manager
+Loading Arizard's bodyGroupr
+
+[Star Wars King's Realm custom playermodels] lua/autorun/brigadier_pm.lua:1: '=' expected near '@'
+  1. unknown - lua/autorun/brigadier_pm.lua:0
+
+
+[[E:NW] ARC Sergeant Player Model] lua/autorun/clonearcsgt_playermodels.lua:1: ')' expected near '<eof>'
+  1. unknown - lua/autorun/clonearcsgt_playermodels.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/clonetrooper_38_pm.lua:1: unexpected symbol near 'char(8)'
+  1. unknown - lua/autorun/clonetrooper_38_pm.lua:0
+
+
+[Renaissance_ARf] lua/autorun/cmd.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/cmd.lua:0
+
+
+[Renaissance_ARf] lua/autorun/cmd_desert.lua:1: unexpected symbol near 'char(8)'
+  1. unknown - lua/autorun/cmd_desert.lua:0
+
+
+[Renaissance_ARf] lua/autorun/cmd_woodland.lua:1: unexpected symbol near 'char(8)'
+  1. unknown - lua/autorun/cmd_woodland.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/cobra.lua:2: '=' expected near '���'
+  1. unknown - lua/autorun/cobra.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/colt.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/colt.lua:0
+
+
+[Renaissance_ARf] lua/autorun/cpt.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/cpt.lua:0
+
+
+[Renaissance_ARf] lua/autorun/cpt_desert.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/cpt_desert.lua:0
+
+
+[Renaissance_ARf] lua/autorun/cpt_woodland.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/cpt_woodland.lua:0
+
+
+[Renaissance_ARf] lua/autorun/ct.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/ct.lua:0
+
+
+[Renaissance_ARf] lua/autorun/ct_desert.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/ct_desert.lua:0
+
+
+[Renaissance_ARf] lua/autorun/ct_woodland.lua:2: '=' expected near '���'
+  1. unknown - lua/autorun/ct_woodland.lua:0
+
+
+[Sith & Jedi Playermodel Pack] lua/autorun/darth.lua:2: '=' expected near 'p��'
+  1. unknown - lua/autorun/darth.lua:0
+
+
+[Darth Marr : SWTOR] lua/autorun/darthmarr.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/darthmarr.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/doomtrooper.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/doomtrooper.lua:0
+
+
+[Sith & Jedi Playermodel Pack] lua/autorun/emperorpalpatine.lua:1: '=' expected near '`'
+  1. unknown - lua/autorun/emperorpalpatine.lua:0
+
+
+[Green Company Playermodels] lua/autorun/gc.lua:1: unexpected symbol near 'char(8)'
+  1. unknown - lua/autorun/gc.lua:0
+
+
+[Star Wars - Galactic Marines Pack] lua/autorun/gm_sono.lua:2: '=' expected near '���'
+  1. unknown - lua/autorun/gm_sono.lua:0
+
+
+[Han and Chewie] lua/autorun/hanchewie.lua:1: '=' expected near '@'
+  1. unknown - lua/autorun/hanchewie.lua:0
+
+
+[Star War General Content Pack #6] lua/autorun/havoc_trooper_lua.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/havoc_trooper_lua.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/kpm.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/kpm.lua:0
+
+
+[Renaissance_ARf] lua/autorun/ltn.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/ltn.lua:0
+
+
+[Renaissance_ARf] lua/autorun/ltn_desert.lua:2: '=' expected near '�ؔ'
+  1. unknown - lua/autorun/ltn_desert.lua:0
+
+
+[Renaissance_ARf] lua/autorun/ltn_woodland.lua:2: '=' expected near '�ڔ'
+  1. unknown - lua/autorun/ltn_woodland.lua:0
+
+
+[M9K Specialties] lua/autorun/m9k_specialties_11_07_15.lua:2: '=' expected near '���'
+  1. unknown - lua/autorun/m9k_specialties_11_07_15.lua:0
+
+
+[Sith & Jedi Playermodel Pack] lua/autorun/macewindu_player.lua:1: '=' expected near 'char(24)'
+  1. unknown - lua/autorun/macewindu_player.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/mads.lua:2: '=' expected near 'ȉ�'
+  1. unknown - lua/autorun/mads.lua:0
+
+
+[Star Wars: Ahsoka Tano Playermodel] lua/autorun/mcfly_jka_ashoka.lua:1: ')' expected near '<eof>'
+  1. unknown - lua/autorun/mcfly_jka_ashoka.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/autorun/miniproject_npc_weapons.lua:1: malformed number near '0�W�0�W��'
+  1. unknown - lua/autorun/miniproject_npc_weapons.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/mitch.lua:1: ')' expected near '<eof>'
+  1. unknown - lua/autorun/mitch.lua:0
+
+
+[More Clone Troopers NPCs] lua/autorun/more_clone_npc_friendly.lua:2: '=' expected near '�'
+  1. unknown - lua/autorun/more_clone_npc_friendly.lua:0
+
+
+[More Clone Troopers NPCs] lua/autorun/more_clone_npc_hostile.lua:2: '=' expected near '�'
+  1. unknown - lua/autorun/more_clone_npc_hostile.lua:0
+
+Server Squad_Weps Con Var Created
+Server Squad_Num Con Var Created
+Server NPC_Grenades Con Var Created
+Server NPC_Manhacks Con Var Created
+Server NPC_Proficiency Con Var Created
+Server NPC_WEP2_Muzzle_fx Con Var Created
+SERVER new_acc_system Con Var Created
+SERVER dmg_level Con Var Created
+
+[ODST Drop Pod] lua/autorun/odst_pod.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/odst_pod.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/parc.lua:2: '=' expected near '���'
+  1. unknown - lua/autorun/parc.lua:0
+
+//todo partice errors
+PARTICLE CONTROL: Added list for game: Source Engine / Garry's Mod
+Particles: Missing 'particles/cinefx.pcf'
+Particles: Missing 'particles/halloween2015_unusuals.pcf'
+Particles: Missing 'particles/scary_ghost.pcf'
+Particles: Missing 'particles/eyeboss.pcf'
+Particles: Missing 'particles/disguise.pcf'
+Particles: Missing 'particles/weapon_unusual_energyorb.pcf'
+Particles: Missing 'particles/crit.pcf'
+Particles: Missing 'particles/harbor_fx.pcf'
+Particles: Missing 'particles/items_engineer.pcf'
+Particles: Missing 'particles/taunt_fx.pcf'
+Particles: Missing 'particles/conc_stars.pcf'
+Particles: Missing 'particles/coin_spin.pcf'
+Particles: Missing 'particles/bigboom.pcf'
+Particles: Missing 'particles/weapon_unusual_isotope.pcf'
+Particles: Missing 'particles/weapon_unusual_hot.pcf'
+Particles: Missing 'particles/powerups.pcf'
+Particles: Missing 'particles/muzzle_flash.pcf'
+Particles: Missing 'particles/halloween.pcf'
+Particles: Missing 'particles/rocketbackblast.pcf'
+Particles: Missing 'particles/items_demo.pcf'
+Particles: Missing 'particles/bl_killtaunt.pcf'
+Particles: Missing 'particles/class_fx.pcf'
+Particles: Missing 'particles/bombinomicon.pcf'
+Particles: Missing 'particles/level_fx.pcf'
+Particles: Missing 'particles/item_fx.pcf'
+Particles: Missing 'particles/weapon_unusual_cool.pcf'
+Particles: Missing 'particles/cig_smoke.pcf'
+Particles: Missing 'particles/rps.pcf'
+Particles: Missing 'particles/invasion_ray_gun_fx.pcf'
+Particles: Missing 'particles/water.pcf'
+Particles: Missing 'particles/stamp_spin.pcf'
+Particles: Missing 'particles/bullet_tracers.pcf'
+Particles: Missing 'particles/classic_rocket_trail.pcf'
+Particles: Missing 'particles/rocketjumptrail.pcf'
+Particles: Missing 'particles/explosion.pcf'
+Particles: Missing 'particles/firstperson_weapon_fx.pcf'
+Particles: Missing 'particles/shellejection.pcf'
+Particles: Missing 'particles/xms.pcf'
+Particles: Missing 'particles/drg_engineer.pcf'
+Particles: Missing 'particles/vgui_menu_particles.pcf'
+Particles: Missing 'particles/urban_fx.pcf'
+Particles: Missing 'particles/soldierbuff.pcf'
+Particles: Missing 'particles/dxhr_fx.pcf'
+Particles: Missing 'particles/drg_bison.pcf'
+Particles: Missing 'particles/blood_trail.pcf'
+Particles: Missing 'particles/teleported_fx.pcf'
+Particles: Missing 'particles/mvm.pcf'
+Particles: Missing 'particles/medicgun_beam.pcf'
+Particles: Missing 'particles/rockettrail.pcf'
+Particles: Missing 'particles/nemesis.pcf'
+Particles: Missing 'particles/stormfront.pcf'
+Particles: Missing 'particles/flamethrower_mvm.pcf'
+Particles: Missing 'particles/npc_fx.pcf'
+Particles: Missing 'particles/sparks.pcf'
+Particles: Missing 'particles/stickybomb.pcf'
+Particles: Missing 'particles/doomsday_fx.pcf'
+Particles: Missing 'particles/medicgun_attrib.pcf'
+Particles: Missing 'particles/smoke_blackbillow_hoodoo.pcf'
+Particles: Missing 'particles/passtime.pcf'
+Particles: Missing 'particles/buildingdamage.pcf'
+Particles: Missing 'particles/nailtrails.pcf'
+Particles: Missing 'particles/training.pcf'
+Particles: Missing 'particles/dirty_explode.pcf'
+Particles: Missing 'particles/smoke_blackbillow.pcf'
+Particles: Missing 'particles/drg_pyro.pcf'
+Particles: Missing 'particles/burningplayer.pcf'
+Particles: Missing 'particles/flamethrower.pcf'
+Particles: Missing 'particles/flag_particles.pcf'
+Particles: Missing 'particles/default.pcf'
+Particles: Missing 'particles/drg_cowmangler.pcf'
+Particles: Missing 'particles/invasion_unusuals.pcf'
+Particles: Missing 'particles/speechbubbles.pcf'
+Particles: Missing 'particles/teleport_status.pcf'
+Particles: Missing 'particles/killstreak.pcf'
+Particles: Missing 'particles/rain_custom.pcf'
+Particles: Missing 'particles/player_recent_teleport.pcf'
+PARTICLE CONTROL: Added list for game: Team Fortress 2
+Particles: Missing 'particles/muzzleflashes.pcf'
+PARTICLE CONTROL: Added list for game: Counter-Strike Source
+
+[Star Wars King's Realm custom playermodels] lua/autorun/phasetwoclonearc.lua:1: unexpected symbol near 'char(16)'
+  1. unknown - lua/autorun/phasetwoclonearc.lua:0
+
+
+[Advanced Duplicator] lua/autorun/serialiser.lua:2: '=' expected near '�l�'
+  1. unknown - lua/autorun/serialiser.lua:0
+
+
+[Renaissance_ARf] lua/autorun/sgt.lua:1: malformed number near '8�W��9�'
+  1. unknown - lua/autorun/sgt.lua:0
+
+
+[Renaissance_ARf] lua/autorun/sgt_desert.lua:1: unexpected symbol near '`'
+  1. unknown - lua/autorun/sgt_desert.lua:0
+
+
+[Renaissance_ARf]  expected near 'Wars'
+  1. unknown - lua/autorun/sgt_woodland.lua:0
+
+
+[Star Wars - Shadow Commandos] lua/autorun/shadow_omega.lua:1: '=' expected near '�h�'
+  1. unknown - lua/autorun/shadow_omega.lua:0
+
+
+[Star War General Content Pack #6] lua/autorun/starwarsgenpack.lua:2: ')' expected near '<eof>'
+  1. unknown - lua/autorun/starwarsgenpack.lua:0
+
+
+[Star War General Content Pack #6] lua/autorun/tfa_poedameron_npc.lua:2: '=' expected near '���'
+  1. unknown - lua/autorun/tfa_poedameron_npc.lua:0
+
+
+[Star War General Content Pack #6] lua/autorun/tfa_poedameron_ply.lua:1: '=' expected near '�W�����lua'
+  1. unknown - lua/autorun/tfa_poedameron_ply.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/autorun/trooper.lua:1: '=' expected near '/'
+  1. unknown - lua/autorun/trooper.lua:0
+
+///////////////////////////////
+//      Ulysses Library      //
+///////////////////////////////
+// Loading...                //
+//  shared/defines.lua       //
+//  shared/misc.lua          //
+//  shared/util.lua          //
+//  shared/hook.lua          //
+//  shared/table.lua         //
+//  shared/player.lua        //
+//  server/player.lua        //
+//  shared/messages.lua      //
+//  shared/commands.lua      //
+//  server/concommand.lua    //
+//  server/util.lua          //
+//  shared/sh_ucl.lua        //
+//  server/ucl.lua           //
+//  server/phys.lua          //
+//  server/player_ext.lua    //
+//  server/entity_ext.lua    //
+//  shared/plugin.lua        //
+//  shared/cami_global.lua   //
+//  shared/cami_ulib.lua     //
+// Load Complete!            //
+///////////////////////////////
+[ULIB] Loading SHARED module: ulx_init.lua
+///////////////////////////////
+//       ULX Admin Mod       //
+///////////////////////////////
+// Loading...                //
+//  sh_defines.lua           //
+//  lib.lua                  //
+//  base.lua                 //
+//  sh_base.lua              //
+//  log.lua                  //
+//  MODULE: slots.lua        //
+//  MODULE: urs_server.lua   //
+//  MODULE: uteam.lua        //
+//  MODULE: votemap.lua      //
+//  MODULE: xgui_server.lua  //
+///////////////////////////////
+// ULX GUI -- by Stickly Man //
+///////////////////////////////
+// Adding Main Modules..     //
+//  bans.lua                 //
+//  commands.lua             //
+//  groups.lua               //
+//  maps.lua                 //
+//  settings.lua             //
+//  utime.lua                //
+// Adding Setting Modules..  //
+//  cl_urs_gui.lua           //
+//  client.lua               //
+//  server.lua               //
+// Adding Gamemode Modules.. //
+//  sandbox.lua              //
+// Loading Server Modules..  //
+//  sv_bans.lua              //
+//  sv_groups.lua            //
+//  sv_maps.lua              //
+//  sv_sandbox.lua           //
+//  sv_settings.lua          //
+//  sv_urs_gui.lua           //
+// XGUI modules added!       //
+///////////////////////////////
+//  MODULE: cc_commandtable.lua//
+//  MODULE: cc_cvars.lua     //
+//  MODULE: cc_effects.lua   //
+//  MODULE: cc_fun.lua       //
+//  MODULE: cc_hook.lua      //
+//  MODULE: cc_menus.lua     //
+//  MODULE: cc_notepad.lua   //
+//  MODULE: cc_pgag.lua      //
+//  MODULE: cc_rcon.lua      //
+//  MODULE: cc_soundlist.lua //
+//  MODULE: cc_teleport.lua  //
+//  MODULE: cc_util.lua      //
+//  MODULE: cc_voting.lua    //
+//  MODULE: chat.lua         //
+//  MODULE: fun.lua          //
+//  MODULE: menus.lua        //
+//  MODULE: playthesound.lua //
+//  MODULE: playurl.lua      //
+//  MODULE: rcon.lua         //
+//  MODULE: rsay.lua         //
+//  MODULE: teleport.lua     //
+//  MODULE: urs_cmds.lua     //
+//  MODULE: user.lua         //
+//  MODULE: userhelp.lua     //
+//  MODULE: util.lua         //
+//  MODULE: vote.lua         //
+//  end.lua                  //
+// Load Complete!            //
+///////////////////////////////
+
+[Renaissance_ARf] lua/autorun/vcmd.lua:1: '=' expected near '/'
+  1. unknown - lua/autorun/vcmd.lua:0
+
+
+[Renaissance_ARf] lua/autorun/vcmd_desert.lua:1: malformed number near '8�W�8�W��'
+  1. unknown - lua/autorun/vcmd_desert.lua:0
+
+
+[Renaissance_ARf] lua/autorun/vcmd_woodland.lua:1: unexpected symbol near 'char(16)'
+  1. unknown - lua/autorun/vcmd_woodland.lua:0
+
+VJ Base server files initialized!
+Nordahl Whitelist Job System: Enabled
+Nordahl JOB WhiteList System: OK
+Wiremod Version 'Workshop' loaded
+[ACD] Successfully initialize.
+
+[Advanced Duplicator] lua/autorun/server/advdupe.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/autorun/server/advdupe.lua:0
+
+ServerLog: [ADVJL:] Muting Join messages for 10 seconds.
+ServerLog: AWarn: Loading module (awarn_sqlite.lua)
+-- Hit Numbers loaded --
+---------------------------------
+| Loading ServerSide PermaProps |
+---------------------------------
+permaprops/sv_lib.lua
+permaprops/sv_menu.lua
+permaprops/sv_permissions.lua
+permaprops/sv_specialfcn.lua
+permaprops/sv_sql.lua
+-----------------------------
+| Loading Shared PermaProps |
+-----------------------------
+---------------------------------
+| Loading ClientSide PermaProps |
+---------------------------------
+permaprops/cl_drawent.lua
+permaprops/cl_menu.lua
+-------------------------------
+//todo multiple defines
+VJ Base A.I. module initialized!
+Couldn't include file 'sh_looc.lua' (File not found) (@addons/local_ooc/lua/darkrp_modules/looc_cmd/sv_looc.lua (line 1))
+Error! Variable "$basetexture" is multiply defined in material "models/wq/starwars/elite/medic_pack"!
+Error! Variable "$basetexture" is multiply defined in material "models/wq/starwars/medic/medic_pack"!
+Error! Variable "$basetexture" is multiply defined in material "models/emp/starwars/212med/medic_pack"!
+Error! Variable "$basetexture" is multiply defined in material "models/emp/starwars/212elite/medic_pack"!
+Error! Variable "$basetexture" is multiply defined in material "models/qew/starwars/medic/medic_pack"!
+MDLCache: starwars_ahri/starwars_ahri.mdl needs to be recompiled
+Error! Variable "$detail" is multiply defined in material "models/sgg/starwars/commando/breenhands"!
+Error! Variable "$detailscale" is multiply defined in material "models/sgg/starwars/commando/breenhands"!
+Error! Variable "$detailblendfactor" is multiply defined in material "models/sgg/starwars/commando/breenhands"!
+Error! Variable "$detailblendmode" is multiply defined in material "models/sgg/starwars/commando/breenhands"!
+Error! Variable "$basetexture" is multiply defined in material "models/emp/starwars/eodhvy/medic_pack"!
+Error! Variable "$basetexture" is multiply defined in material "models/emp/starwars/eodelite/medic_pack"!
+Error! Variable "$basetexture" is multiply defined in material "models/emp/starwars/eodsupport/medic_pack"!
+//todo KeyValuesErrors
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/pistols.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/acc2_bly.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/bosskilt.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/bosshelm.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/headtrim.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/torso_212.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/acc_212.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/clonehands.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/breenhands.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/pistols.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/acc2_bly.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/bosskilt.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/bosshelm.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/headtrim.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/torso_212.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/acc_212.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/clonehands.vmt
+
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/port/starwars/sohn/breenhands.vmt
+
+MDLCache: tfa/comm/gg/pm_sw_g_droid_b1.mdl needs to be recompiled
+MDLCache: tfa/comm/gg/pm_sw_t_droid_b1.mdl needs to be recompiled
+
+[Star Wars Vehicles: Episode 1] lua/weapons/allegiance_tool.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/allegiance_tool.lua:0
+
+M9KDamageMultiplier is missing! You may have hit the lua limit! Reverting multiplier to 1.
+M9KDefaultClip is missing! You may have hit the lua limit!
+
+[Star Wars: Dual DE-10] lua/weapons/awhg_bobs_gun_base/shared.lua:1327: attempt to index a nil value
+  1. unknown - lua/weapons/awhg_bobs_gun_base/shared.lua:1327
+   2. include - [C]:-1
+    3. unknown - lua/weapons/awhg_bobs_gun_base/init.lua:4
+
+
+[M9K Specialties] lua/weapons/bobs_blacklisted/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/bobs_blacklisted/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/bobs_gun_base/shared.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/weapons/bobs_gun_base/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/bobs_nade_base/shared.lua:1: '=' expected near '@'
+  1. unknown - lua/weapons/bobs_nade_base/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/bobs_scoped_base/init.lua:1: malformed number near '0�W�0�W�����AddCSLuaFile'
+  1. unknown - lua/weapons/bobs_scoped_base/init.lua:0
+
+
+[M9K Specialties] lua/weapons/bobs_shotty_base/init.lua:1: malformed number near '0�W�0�W�'
+  1. unknown - lua/weapons/bobs_shotty_base/init.lua:0
+
+Error! Variable "$detail" is multiply defined in material "models/weapons/v_models/breenhands"!
+Error! Variable "$detailscale" is multiply defined in material "models/weapons/v_models/breenhands"!
+Error! Variable "$detailblendfactor" is multiply defined in material "models/weapons/v_models/breenhands"!
+Error! Variable "$detailblendmode" is multiply defined in material "models/weapons/v_models/breenhands"!
+
+[Advanced Duplicator] lua/weapons/gmod_tool/stools/adv_duplicator.lua:1: '=' expected near '@'
+  1. unknown - lua/weapons/gmod_tool/stools/adv_duplicator.lua:0
+
+npc_spawnplatform reloaded
+
+[Resizer]  expected near 'char(15)'
+  1. unknown - lua/weapons/gmod_tool/stools/resizer.lua:0
+
+
+[Star War General Content Pack #6] lua/weapons/hk47.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/hk47.lua:0
+
+
+[Star War General Content Pack #6] lua/weapons/jabba.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/jabba.lua:0
+
+
+[Star War General Content Pack #6] lua/weapons/jango.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/jango.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_damascus/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_damascus/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_davy_crockett/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_davy_crockett/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_ex41/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/m9k_ex41/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_fists/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_fists/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_harpoon/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_harpoon/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_ied_detonator/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_ied_detonator/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_knife/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_knife/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_m202/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_m202/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_m61_frag/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/m9k_m61_frag/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_m79gl/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_m79gl/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_machete/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_machete/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_matador/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/m9k_matador/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_milkormgl/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/m9k_milkormgl/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_nerve_gas/shared.lua:1: '=' expected near 'char(16)'
+  1. unknown - lua/weapons/m9k_nerve_gas/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_nitro/shared.lua:1: '=' expected near 'char(2)'
+  1. unknown - lua/weapons/m9k_nitro/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_orbital_strike/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_orbital_strike/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_proxy_mine/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_proxy_mine/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_rpg7/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_rpg7/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_sticky_grenade/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_sticky_grenade/shared.lua:0
+
+
+[M9K Specialties] lua/weapons/m9k_suicide_bomb/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/m9k_suicide_bomb/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_clone_commando_set/shared.lua:1: '=' expected near '`'
+  1. unknown - lua/weapons/npc_clone_commando_set/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_clone_elite_set/shared.lua:1: '=' expected near 'char(18)'
+  1. unknown - lua/weapons/npc_clone_elite_set/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_clone_support/shared.lua:1: malformed number near '8�W�8�W�'
+  1. unknown - lua/weapons/npc_clone_support/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_clone_trooper_set/shared.lua:1: '=' expected near 'char(20)'
+  1. unknown - lua/weapons/npc_clone_trooper_set/shared.lua:0
+
+[AddCSLuaFile] Empty file 'lua/weapons/npc_dual_base2/cl_init.lua' (<nowhere>)
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_base2/init.lua:1: '=' expected near 'char(21)'
+  1. unknown - lua/weapons/npc_dual_base2/init.lua:0
+
+[AddCSLuaFile] Empty file 'lua/weapons/npc_dual_base3/cl_init.lua' (<nowhere>)
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_base3/init.lua:1: '=' expected near '�W�����'
+  1. unknown - lua/weapons/npc_dual_base3/init.lua:0
+
+[AddCSLuaFile] Empty file 'lua/weapons/npc_dual_base4/cl_init.lua' (<nowhere>)
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_base4/init.lua:1: malformed number near '0�W�0�W�'
+  1. unknown - lua/weapons/npc_dual_base4/init.lua:0
+
+[AddCSLuaFile] Empty file 'lua/weapons/npc_dual_base5/cl_init.lua' (<nowhere>)
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_base5/init.lua:1: malformed number near '0�W�0�W�'
+  1. unknown - lua/weapons/npc_dual_base5/init.lua:0
+
+[AddCSLuaFile] Empty file 'lua/weapons/npc_dual_base7/cl_init.lua' (<nowhere>)
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_base7/init.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_dual_base7/init.lua:0
+
+[AddCSLuaFile] Empty file 'lua/weapons/npc_dual_base8/cl_init.lua' (<nowhere>)
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_base8/init.lua:1: '=' expected near '�W�����'
+  1. unknown - lua/weapons/npc_dual_base8/init.lua:0
+
+[AddCSLuaFile] Empty file 'lua/weapons/npc_dual_base9/cl_init.lua' (<nowhere>)
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_base9/init.lua:1: '=' expected near '�W�����'
+  1. unknown - lua/weapons/npc_dual_base9/init.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_dc17/shared.lua:1: malformed number near '0�W�0�W���'
+  1. unknown - lua/weapons/npc_dual_dc17/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_de10/shared.lua:1: malformed number near '0�W�0�W�'
+  1. unknown - lua/weapons/npc_dual_de10/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_dsbp/shared.lua:1: malformed number near '0�W�0�W���'
+  1. unknown - lua/weapons/npc_dual_dsbp/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_elg3a/shared.lua:1: malformed number near '0�W�0�W���'
+  1. unknown - lua/weapons/npc_dual_elg3a/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_ll30/shared.lua:1: malformed number near '0�W�0�W�x�'
+  1. unknown - lua/weapons/npc_dual_ll30/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_se14c/shared.lua:1: ')' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_dual_se14c/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_dual_westar34/shared.lua:1: ')' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_dual_westar34/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_rebel_set/shared.lua:1: '=' expected near '�W����'
+  1. unknown - lua/weapons/npc_rebel_set/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sniper_base/init.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/weapons/npc_sniper_base/init.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_base/init.lua:1: ')' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_base/init.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_752_e60r/init.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_752_e60r/init.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_a280c_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_a280c_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_bowcaster_edit/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/npc_sw_weapon_bowcaster_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_cisshot/shared.lua:1: unexpected symbol near 'char(8)'
+  1. unknown - lua/weapons/npc_sw_weapon_cisshot/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_cissnip/shared.lua:1: unexpected symbol near '`'
+  1. unknown - lua/weapons/npc_sw_weapon_cissnip/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dc-15a_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_dc-15a_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dc-15s_edit/shared.lua:1: malformed number near '0�W�0�W����'
+  1. unknown - lua/weapons/npc_sw_weapon_dc-15s_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dc-17_edit/shared.lua:1: malformed number near '0�W�0�W����'
+  1. unknown - lua/weapons/npc_sw_weapon_dc-17_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dc15sa_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_dc15sa_edit/shared.lua:0
+
+[AddCSLuaFile] Empty file 'lua/weapons/npc_sw_weapon_dc17m_at_edit/shared.lua' (<nowhere>)
+Not running script lua/weapons/npc_sw_weapon_dc17m_at_edit/shared.lua - it's too short.
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dc17m_br_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_dc17m_br_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dc17m_sn_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_dc17m_sn_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_de10_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_de10_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dh17_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_dh17_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dlt19_edit/shared.lua:1: unexpected symbol near '`'
+  1. unknown - lua/weapons/npc_sw_weapon_dlt19_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_dsbp_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_dsbp_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_e11_edit/shared.lua:1: '=' expected near '`'
+  1. unknown - lua/weapons/npc_sw_weapon_e11_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_e5_edit/shared.lua:1: '=' expected near 'J�'
+  1. unknown - lua/weapons/npc_sw_weapon_e5_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_e5s_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_e5s_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_ee3_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_ee3_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_elg3a_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_elg3a_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_ihr_edit/shared.lua:1: '=' expected near '`'
+  1. unknown - lua/weapons/npc_sw_weapon_ihr_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_kyd21_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_kyd21_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_ll30_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_ll30_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_repshot/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_repshot/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_repsnip/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_repsnip/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_se14c_edit/shared.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/weapons/npc_sw_weapon_se14c_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_t21_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_t21_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_westar34_edit/shared.lua:1: unexpected symbol near '`'
+  1. unknown - lua/weapons/npc_sw_weapon_westar34_edit/shared.lua:0
+
+
+[Enhanced Star Wars NPC Weapons] lua/weapons/npc_sw_weapon_westar_m5_edit/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/npc_sw_weapon_westar_m5_edit/shared.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/weapons/repair_tool.lua:1: unexpected symbol near 'char(16)'
+  1. unknown - lua/weapons/repair_tool.lua:0
+
+
+[Slappers] lua/weapons/slappers/shared.lua:1: malformed number near '8�W�8�W�'
+  1. unknown - lua/weapons/slappers/shared.lua:0
+
+
+[Star Wars - Dual DL-44s] lua/weapons/weapon_752_dl44dual/shared.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/weapons/weapon_752_dl44dual/shared.lua:0
+
+
+[Bryar Pistol] lua/weapons/weapon_bryarpistol/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/weapon_bryarpistol/shared.lua:0
+
+
+[Bryar Pistol] lua/weapons/weapon_d11-19/shared.lua:1: '=' expected near 'char(8)'
+  1. unknown - lua/weapons/weapon_d11-19/shared.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/weapons/weapon_dp23/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/weapon_dp23/shared.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/weapons/weapon_highnoon/shared.lua:1: ')' expected near 'char(15)'
+  1. unknown - lua/weapons/weapon_highnoon/shared.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/weapons/weapon_revolver_mercer/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/weapon_revolver_mercer/shared.lua:0
+
+
+[Bryar Pistol] lua/weapons/weapon_swchaingun/shared.lua:1: unexpected symbol near '`'
+  1. unknown - lua/weapons/weapon_swchaingun/shared.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/weapons/weapon_vibrosword/shared.lua:1: unexpected symbol near 'char(16)'
+  1. unknown - lua/weapons/weapon_vibrosword/shared.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/weapons/weapon_westarm5/shared.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/weapons/weapon_westarm5/shared.lua:0
+
+//todo SWEP Errors
+SWEP (realrbn_tazer_mr) is derived from non existant SWEP (realrbn_tazer) - Expect errors!
+SWEP (weapon_swrp_dc17msniper) is derived from non existant SWEP (fo3_stef_base) - Expect errors!
+SWEP (weapon_swrp_droidblaster) is derived from non existant SWEP (fo3_stef_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (ttt_realistic_hook) is derived from non existant SWEP (weapon_tttbase) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (weapon_swrp_cloneblaster) is derived from non existant SWEP (fo3_stef_base) - Expect errors!
+SWEP (weapon_swrp_tuskenraider) is derived from non existant SWEP (fo3_stef_base) - Expect errors!
+SWEP (weapon_swrp_t21) is derived from non existant SWEP (fo3_stef_base_rifle) - Expect errors!
+SWEP (weapon_swrp_stormtrooperblast) is derived from non existant SWEP (fo3_stef_base) - Expect errors!
+SWEP (weapon_swrp_dc17m) is derived from non existant SWEP (fo3_stef_base_rifle) - Expect errors!
+SWEP (weapon_swrp_dc15) is derived from non existant SWEP (fo3_stef_base_rifle) - Expect errors!
+SWEP (weapon_swrp_dc15pistol) is derived from non existant SWEP (fo3_stef_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (tfa_ccard_base) is derived from non existant SWEP (tfa_gun_base) - Expect errors!
+SWEP (weapon_swrp_rebelblaster) is derived from non existant SWEP (fo3_stef_base) - Expect errors!
+
+[Star Wars Vehicles: Episode 1] lua/entities/a-wing.lua:1: malformed number near '8�W�8�W����'
+  1. unknown - lua/entities/a-wing.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/aat.lua:1: malformed number near '8�W�8�W����'
+  1. unknown - lua/entities/aat.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/arc170.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/arc170.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/b-wing.lua:1: ')' expected near 'char(15)'
+  1. unknown - lua/entities/b-wing.lua:0
+
+!
+
+[Star Wars Vehicles: Episode 1] lua/entities/cannon_blast.lua:1: '=' expected near 'char(15)'
+  1. unknown - lua/entities/cannon_blast.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/delta.lua:1: unexpected symbol near 'char(8)'
+  1. unknown - lua/entities/delta.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/droid_tri.lua:1: '=' expected near 'char(24)'
+  1. unknown - lua/entities/droid_tri.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/eta2.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/eta2.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/fighter_base.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/fighter_base.lua:0
+
+
+[Advanced Duplicator] lua/entities/gmod_adv_dupe_paster/init.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/gmod_adv_dupe_paster/init.lua:0
+
+ +---------------------------------+
+ |          E2 EXTENSIONS          |
+ +----------------+----------------+
+ |    ENABLED     |    DISABLED    |
+ +----------------+----------------+
+ | console        | constraintcore |
+ | file           | effects        |
+ | find           | http           |
+ | holo           | propcore       |
+ | npc            | remoteupload   |
+ | ranger         | wiring         |
+ | serialization  |                |
+ | sound          |                |
+ +----------------+----------------+
+
+[Star Wars Vehicles: Episode 1] lua/entities/headhunter.lua:1: '=' expected near 'char(16)'
+  1. unknown - lua/entities/headhunter.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/imp_speeder.lua:1: '=' expected near 'char(16)'
+  1. unknown - lua/entities/imp_speeder.lua:0
+
+Spawn Point Management by Nordahl: OK
+
+[Star Wars Vehicles: Episode 1] lua/entities/landspeeder.lua:1: '=' expected near '�W���'
+  1. unknown - lua/entities/landspeeder.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_357/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_ammo_357/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_40mm/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_ammo_40mm/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_40mm_single/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_ammo_40mm_single/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_ar2/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_ammo_ar2/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_buckshot/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_ammo_buckshot/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_c4/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_ammo_c4/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_frags/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_ammo_frags/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_ieds/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_ammo_ieds/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_nervegas/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_ammo_nervegas/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_nuke/shared.lua:1: '=' expected near 'char(24)'
+  1. unknown - lua/entities/m9k_ammo_nuke/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_orbitalstrike/shared.lua:1: '=' expected near 'char(24)'
+  1. unknown - lua/entities/m9k_ammo_orbitalstrike/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_pistol/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_ammo_pistol/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_proxmines/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_ammo_proxmines/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_rockets/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_ammo_rockets/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_smg/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_ammo_smg/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_sniper_rounds/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_ammo_sniper_rounds/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_stickynades/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_ammo_stickynades/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_ammo_winchester/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_ammo_winchester/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_davy_crockett_explo/shared.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/m9k_davy_crockett_explo/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_gdcwa_matador_90mm/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_gdcwa_matador_90mm/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_gdcwa_rpg_heat/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_gdcwa_rpg_heat/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_improvised_explosive/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_improvised_explosive/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_launched_davycrockett/shared.lua:1: '<name>' expected near 'char(16)'
+  1. unknown - lua/entities/m9k_launched_davycrockett/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_launched_ex41/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_launched_ex41/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_launched_m79/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_launched_m79/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_m202_rocket/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_m202_rocket/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_mad_c4/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_mad_c4/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_milkor_nade/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_milkor_nade/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_nervegasnade/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_nervegasnade/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_nitro_vapor/shared.lua:1: '=' expected near ';'
+  1. unknown - lua/entities/m9k_nitro_vapor/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_oribital_cannon/shared.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/m9k_oribital_cannon/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_poison_parent/shared.lua:1: ')' expected near 'char(24)'
+  1. unknown - lua/entities/m9k_poison_parent/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_proxy/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_proxy/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_released_poison/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_released_poison/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_sent_nuke_radiation/shared.lua:1: '=' expected near '?'
+  1. unknown - lua/entities/m9k_sent_nuke_radiation/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_thrown_harpoon/shared.lua:1: '=' expected near '@'
+  1. unknown - lua/entities/m9k_thrown_harpoon/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_thrown_knife/shared.lua:1: '=' expected near '<'
+  1. unknown - lua/entities/m9k_thrown_knife/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_thrown_m61/shared.lua:1: '=' expected near '<'
+  1. unknown - lua/entities/m9k_thrown_m61/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_thrown_nitrox/shared.lua:1: '=' expected near '`'
+  1. unknown - lua/entities/m9k_thrown_nitrox/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_thrown_spec_knife/shared.lua:1: '=' expected near '`'
+  1. unknown - lua/entities/m9k_thrown_spec_knife/shared.lua:0
+
+
+[M9K Specialties] lua/entities/m9k_thrown_sticky_grenade/shared.lua:1: '=' expected near '<'
+  1. unknown - lua/entities/m9k_thrown_sticky_grenade/shared.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/entities/make_this_right/init.lua:1: '=' expected near '<'
+  1. unknown - lua/entities/make_this_right/init.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/millenium_falcon.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/millenium_falcon.lua:0
+
+
+[Star Wars King's Realm custom playermodels] lua/entities/my_only_chance/init.lua:1: ')' expected near '='
+  1. unknown - lua/entities/my_only_chance/init.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/n-1.lua:1: ')' expected near '='
+  1. unknown - lua/entities/n-1.lua:0
+
+
+[ODST Drop Pod] lua/entities/odst_drop_pod/init.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/odst_drop_pod/init.lua:0
+
+
+[ODST Drop Pod] lua/entities/odst_pod_chute/init.lua:1: '=' expected near '�W�P�Y'
+  1. unknown - lua/entities/odst_pod_chute/init.lua:0
+
+
+[ODST Drop Pod] lua/entities/odst_pod_door/init.lua:1: '=' expected near '�W�P�Y'
+  1. unknown - lua/entities/odst_pod_door/init.lua:0
+
+
+[ODST Drop Pod] lua/entities/odst_pod_l/init.lua:1: '=' expected near '�W�P�Y'
+  1. unknown - lua/entities/odst_pod_l/init.lua:0
+
+
+[ODST Drop Pod] lua/entities/odst_pod_launcher/init.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/odst_pod_launcher/init.lua:0
+
+
+[ODST Drop Pod] lua/entities/odst_pod_r/init.lua:1: unexpected symbol near 'char(16)'
+  1. unknown - lua/entities/odst_pod_r/init.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/podracer.lua:1: malformed number near '0�W�'
+  1. unknown - lua/entities/podracer.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/republic_speeder.lua:1: '=' expected near '@'
+  1. unknown - lua/entities/republic_speeder.lua:0
+
+Hello from the Spawn Platform!
+
+[Star Wars Vehicles: Episode 1] lua/entities/slave.lua:1: unexpected symbol near 'char(8)'
+  1. unknown - lua/entities/slave.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/soulless.lua:1: malformed number near '0�W�0�W��'
+  1. unknown - lua/entities/soulless.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/speeder_base.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/speeder_base.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/speeder_bike.lua:1: '=' expected near '@'
+  1. unknown - lua/entities/speeder_bike.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/tie_advanced.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/tie_advanced.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/tie_bomber.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/tie_bomber.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/tie_fighter.lua:1: ')' expected near '�k'
+  1. unknown - lua/entities/tie_fighter.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/tie_interceptor.lua:1: ')' expected near '�k'
+  1. unknown - lua/entities/tie_interceptor.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/torpedo_blast.lua:1: ')' expected near '�k'
+  1. unknown - lua/entities/torpedo_blast.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/tx130.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/tx130.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/v-wing.lua:1: unexpected symbol near 'char(8)'
+  1. unknown - lua/entities/v-wing.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/vulture.lua:1: '=' expected near '�k'
+  1. unknown - lua/entities/vulture.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/x-wing.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/x-wing.lua:0
+
+
+[Star Wars Vehicles: Episode 1] lua/entities/y-wing.lua:1: '=' expected near '<eof>'
+  1. unknown - lua/entities/y-wing.lua:0
+
+//todo derive entity error
+ERROR: Trying to derive entity eta2y from non existant entity fighter_base!
+ERROR: Trying to derive entity koro2 from non existant entity fighter_base!
+ERROR: Trying to derive entity pod2ship from non existant entity fighter_base!
+ERROR: Trying to derive entity storm from non existant entity fighter_base!
+ERROR: Trying to derive entity ewing from non existant entity fighter_base!
+ERROR: Trying to derive entity supremacyfighter2 from non existant entity fighter_base!
+ERROR: Trying to derive entity delta7 from non existant entity fighter_base!
+ERROR: Trying to derive entity sith_speeder from non existant entity speeder_base!
+ERROR: Trying to derive entity probedroid from non existant entity speeder_base!
+ERROR: Trying to derive entity blockade from non existant entity fighter_base!
+ERROR: Trying to derive entity tie_defender from non existant entity fighter_base!
+ERROR: Trying to derive entity xj6 from non existant entity fighter_base!
+ERROR: Trying to derive entity upsilon_shuttle from non existant entity fighter_base!
+ERROR: Trying to derive entity tieprototype from non existant entity fighter_base!
+ERROR: Trying to derive entity droid_gun from non existant entity fighter_base!
+ERROR: Trying to derive entity consular from non existant entity fighter_base!
+ERROR: Trying to derive entity quadjumper from non existant entity fighter_base!
+ERROR: Trying to derive entity star_destroyer from non existant entity fighter_base!
+ERROR: Trying to derive entity republic_cruiser from non existant entity fighter_base!
+ERROR: Trying to derive entity acclamator from non existant entity fighter_base!
+ERROR: Trying to derive entity sithfighter from non existant entity fighter_base!
+ERROR: Trying to derive entity laat from non existant entity fighter_base!
+ERROR: Trying to derive entity munificent from non existant entity fighter_base!
+ERROR: Trying to derive entity atcarrier from non existant entity fighter_base!
+ERROR: Trying to derive entity skiray2 from non existant entity fighter_base!
+ERROR: Trying to derive entity razor_fighter from non existant entity fighter_base!
+ERROR: Trying to derive entity mtt from non existant entity speeder_base!
+ERROR: Trying to derive entity yodahchair from non existant entity speeder_base!
+ERROR: Trying to derive entity starhunter from non existant entity fighter_base!
+ERROR: Trying to derive entity atte from non existant entity speeder_base!
+ERROR: Trying to derive entity rey_speeder from non existant entity speeder_base!
+ERROR: Trying to derive entity ywing_btlb from non existant entity fighter_base!
+ERROR: Trying to derive entity ebonhawk2 from non existant entity fighter_base!
+ERROR: Trying to derive entity stap from non existant entity speeder_base!
+ERROR: Trying to derive entity lambda from non existant entity fighter_base!
+ERROR: Trying to derive entity snowspeeder from non existant entity fighter_base!
+ERROR: Trying to derive entity tiehunter from non existant entity fighter_base!
+ERROR: Trying to derive entity merccarrier from non existant entity fighte
