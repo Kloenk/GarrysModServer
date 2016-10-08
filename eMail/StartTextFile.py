@@ -16,7 +16,7 @@ def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxP
     msg['to']      = '[GCG] Root Server Managment'
     msg['From']    = '[GCG] Root Server'
     try:
-        conn = smtplib.SMTP_SSL('mail.gmx.net:465')
+        conn = smtplib.SMTP_SSL(Variables.SMTPServerAddres)
         conn.set_debuglevel(True)
         conn.login(Variables.ServerEmailAddr, Variables.ServerEmailPwd)		#TODO andere eMail einstellen
         try:
