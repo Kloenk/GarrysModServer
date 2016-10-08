@@ -7,7 +7,8 @@ from PythonServerKernel.Exceptions import KernerlCriticalFailur
 import os
 
 
-def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd="", steamForceDir=Variables.SteamForceDir, steamAppID=Variables.SteamApID, validate=True, steamCmdDir=Variables.SteamCmdDir):
+def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd="", steamForceDir=Variables.SteamForceDir,
+                          steamAppID=Variables.SteamApID, validate=True, steamCmdDir=Variables.SteamCmdDir, debug=False):
     try:
         if(steamAuthPwd == ""):
             if(validate == True):
@@ -27,7 +28,8 @@ def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd=""
                     steamCmdDir, steamAuthName, steamAuthPwd, steamForceDir, steamAppID)
         else:
             raise KernerlCriticalFailur('SteamAuthPWD', '''can't resolve status''')
-        print("run command %s" % (Command))
+        if(debug== True):
+            print("run command %s" % (Command))
         os.system(Command)
     except:
         raise
