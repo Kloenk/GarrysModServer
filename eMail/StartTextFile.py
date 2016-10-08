@@ -30,7 +30,5 @@ def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxP
 
 
 if __name__ == '__main__':
-    from GModServer.Variables import *
-    SendStartEMail(SteamWorkShopId, ServerGamemode, ServerDefaultMap, ServerMaxPlayer, ServerIp, ServerPort)
     from PythonServerKernel.Exceptions import RunnedFromFalseFile
     raise RunnedFromFalseFile('eMail_StartTextFile_py')
