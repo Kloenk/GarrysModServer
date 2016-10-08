@@ -13,7 +13,7 @@ def updateGarrysModServer(steamAuthName=Variables.SteamAuthName, steamAuthPwd=""
         if(steamAuthPwd == ""):
             if(validate == True):
 
-                Command="%s +login %s +force_install_dir %s +app_update %s validate " % (
+                Command="%s +login %s +force_install_dir %s +app_update %s validate +quit" % (
                     steamCmdDir, steamAuthName, steamForceDir, steamAppID)
 
             elif(validate == False):
