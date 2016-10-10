@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import smtplib
-
+import time
 import sys
 from email.mime.text import MIMEText
 from GModServer import Variables
@@ -11,7 +11,10 @@ def SendStartEMail(steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxP
     The GCG Server Will now start.
     The steamWorkshopId from the pack is %s, the Gamode of the server is %s, the map is %s, there are %s players allowed,
     the server is runing on IP %s:%s.
-    ''' % (steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxPlayer, serverIP, serverPort)
+    At time %s:%s:%s at date %s.%s.%s.
+    ''' % (steamWorkshopId, serverGamemode, serverdefaultMap, serverMaxPlayer, serverIP, serverPort,
+           time.gmtime().tm_hour, time.gmtime().tm_min, time.gmtime().tm_sec, time.gmtime().tm_mon, time.gmtime().tm_mday,
+           time.gmtime().tm_year)
     msg = MIMEText(text, 'plain')
     msg['Subject'] = "starting info"
     msg['to']      = '[GCG] Root Server Managment'
